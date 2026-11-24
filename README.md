@@ -1,16 +1,41 @@
-# zerdagulhavareproje
+# Flutter Food App
 
-A new Flutter project.
+Flutter food delivery mobile app.
+
+## Features
+
+- Home page (views/home_page.dart)
+- Food detail page (views/detail_page.dart)
+- Cart page (views/cart_page.dart)
+- Bottom navigation between Home ("Anasayfa") and Cart ("Sepet")
+- State management with a `FoodViewModel` via Provider, with food models and a food repository
+
+## Tech
+
+- Flutter
+- Dart
+- Provider
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
